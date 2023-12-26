@@ -1,0 +1,30 @@
+table,th,td
+{
+	border:2px solid black;
+	text-align:center;
+}
+table
+{
+	
+}
+tr:nth-child(odd)
+{
+  background-color: #ffff80;
+}
+tr:hover
+{
+	background-color:#ffd000;
+}
+th
+{
+	height:50px;
+	background-color:#ffd000;
+}
+td
+{
+	height:30px
+}
+#id1
+{
+	font-weight:bold;
+}

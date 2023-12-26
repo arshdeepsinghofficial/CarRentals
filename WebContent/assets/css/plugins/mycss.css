@@ -1,0 +1,46 @@
+#id1
+  {
+  width: 100px;
+  height: 100px;
+  border: 2px solid;
+  display:inline-block;
+  background-color:#ffd000;
+  margin:5px 5px 5px 5px;
+  justify-content: center;
+  align-items:center;
+  font:bold;
+  }
+  #id2
+  {
+      align-items:center;
+      font:bold;
+  }
+  
+  th, td
+   {
+     border: 2px solid black;
+     -webkit-column-width: 100px;
+    -webkit-column-height: 100px;
+     text-align:center;
+     backgound-color:ffd000;
+     border-collapse: separate;
+     border-spacing: 50px;
+   }
+   table
+   {
+     
+      border-collapse: separate;
+      border-spacing: 50px;
+   }
+  .yellow
+  {
+     align:center;
+     background-color: #ffd000;
+     width:310px;
+     height:40px;
+     placeholder:select;
+     border:1px solid #606060; 
+     border-radius:0px;
+     text-align:center;
+     
+  }
